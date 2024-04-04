@@ -14,4 +14,4 @@
 Note: Do not delete data.json file as it contains your saved passwords.
 
 
-****************************** THANK YOU ******************************
+***************************************** THANK YOU *************************************
